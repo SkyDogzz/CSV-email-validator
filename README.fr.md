@@ -1,5 +1,7 @@
 # CSV-email-validator
 
+[README in english](README.md)
+
 # Guide d'utilisation du script check_emails.sh
 
 Ce script permet de vérifier si le contenu de la colonne spécifiée dans un fichier CSV est un email valide en utilisant la regex 
