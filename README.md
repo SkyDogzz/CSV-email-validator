@@ -6,7 +6,7 @@
 
 This script checks if the contents of the specified column in a CSV file are a valid email using the regex 
 
-> ^\[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$
+> ^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$
 
   
 
